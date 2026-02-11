@@ -1,4 +1,4 @@
-# useless-but-beautiful-cli
+# useless_but_beautiful_cli
 
 쓸모는 없지만 터미널의 분위기를 바꿔주는 작은 CLI 모음.
 
