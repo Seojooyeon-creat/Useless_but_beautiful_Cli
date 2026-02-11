@@ -1,0 +1,20 @@
+{
+  "name": "useless-but-beautiful-cli",
+  "version": "0.1.0",
+  "description": "A tiny collection of useless but atmospheric terminal experiences.",
+  "type": "module",
+  "bin": {
+    "vibe": "./bin/vibe.js"
+  },
+  "scripts": {
+    "start": "node ./bin/vibe.js",
+    "lint": "node --check ./bin/vibe.js ./src/index.js"
+  },
+  "keywords": [
+    "cli",
+    "terminal",
+    "ascii",
+    "ambient"
+  ],
+  "license": "MIT"
+}
